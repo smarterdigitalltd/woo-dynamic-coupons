@@ -1,0 +1,18 @@
+{
+  "name": "topspinpro/woo-dynamic-coupons",
+  "description": "Create dynamic Woo coupons and display via API endpoint - eg for Klaviyo",
+  "type": "project",
+  "license": "GPL2",
+  "authors": [
+    {
+      "name": "Doug Belchamber",
+      "email": "doug@topspinpro.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "YourPrefix\\WooDynamicCoupons\\": "app"
+    }
+  }
+}
